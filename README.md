@@ -1,9 +1,15 @@
 # CAD files of the INRIA Paris Robotics Lab
+This is a collection of the files produced for the Robotics Lab of INRIA Paris, mainly used by the [WILLOW](https://www.di.ens.fr/willow/) team.
+An overview of the robots is available [HERE](https://inria-paris-robotics-lab.github.io/Robots/)
+
+We also put references files that we use to 3D model parts on unitree robots. These files arecleaned up parts of the robots with references for screw placement since the models given by unitree are whole body and lack detailling of the screw holes.
+
+# Description of the files :
 All files are given in [freecad](https://www.freecad.org/) format (FCStd) or in mesh format (STL)
 >[!TIP]  
 > Github has a built in stl viewer : click on "[PREVIEW]" for a 3D preview of the piece.
 
-## Description of the parts:
+## 3D Parts
 ### Franka
 [ball.FCStd](franka/ball.FCStd): ball end effector, mainly used for contact and force control experiments  
  [[PREVIEW]](franka/ball.stl)
