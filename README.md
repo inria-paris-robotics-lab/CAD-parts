@@ -43,3 +43,21 @@ All files are given in [freecad](https://www.freecad.org/) format (FCStd) or in 
 <div align="center">
     <img src=".pictures/vention/vention_cable_holder.png" alt="Vention cable holder" width="300">
 </div>
+
+---
+### References
+This is a collection of cleaned up 3D meshes of robots that are used to model 3D objects.
+#### Unitree
+##### G1
+[g1_torso_scale1_1.stl](references/unitree/G1/g1_torso_scale1_1.stl) : torso of the unitree G1  
+[[PREVIEW]](references/unitree/G1/g1_torso_scale1_1.stl)
+
+##### Go2
+[go2_body_clean.stl](references/unitree/Go2/go2_body_clean.stl): main body with the head of the Go2   
+[[PREVIEW]](references/unitree/Go2/go2_body_clean.stl)
+
+[go2_body_scaled_1.001:1.stl](references/unitree/Go2/go2_body_scaled_1.001:1.stl): main body with the head of the Go2, scaled up so that when you do a bolean difference the part has a few millimeters of tolerance.   
+[[PREVIEW]](references/unitree/Go2/go2_body_scaled_1.001:1.stl)
+
+[go2_headscrew_placement.FCStd](references/unitree/Go2/go2_headscrew_placement.FCStd): CAD files with the placement of the head screws to be used as a base  
+[[PREVIEW]](references/unitree/Go2/go2_headscrew_placement.FCStd)
