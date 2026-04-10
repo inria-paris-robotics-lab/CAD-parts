@@ -24,6 +24,11 @@ All files are given in [freecad](https://www.freecad.org/) format (FCStd) or in 
 </div>
 
 ### Unitree
+#### G1
+[g1_velcrostraps_backpack.FCStd](unitree/g1/g1_velcrostraps_backpack.FCStd) : back attachement with multiple velcro attachement points to attach extensions (Wifi router, emergency stop)
+[[PREVIEW]] TODO
+TODO picture
+
 #### Go2
 [go2_replacement_rail_velcro.FCStd](unitree/go2/go2_replacement_rail_velcro.FCStd) : replacement of the aluminium rail bars used on the Unitree Nvidia Jetson backback with velcro slits  
 [[PREVIEW]](unitree/go2/go2_replacement_rail_velcro.stl)
@@ -58,11 +63,14 @@ This is a collection of cleaned up 3D meshes of robots that are used to model 3D
 [g1_torso_scale1_1.stl](references/unitree/G1/g1_torso_scale1_1.stl) : torso of the unitree G1  
 [[PREVIEW]](references/unitree/G1/g1_torso_scale1_1.stl)
 
+[g1_torso_scale1.001:1.stl](references/unitree/G1/g1_torso_scale1_1.stl) : torso of the unitree G1 scaled up by 1.001 to have a few millimeters of tolerance when doing a bolean difference with an attachement .  
+[[PREVIEW]](references/unitree/G1/g1_torso_scale1.001:1.stl)
+
 ##### Go2
 [go2_body_clean.stl](references/unitree/Go2/go2_body_clean.stl): main body with the head of the Go2   
 [[PREVIEW]](references/unitree/Go2/go2_body_clean.stl)
 
-[go2_body_scaled_1.001:1.stl](references/unitree/Go2/go2_body_scaled_1.001:1.stl): main body with the head of the Go2, scaled up so that when you do a bolean difference the part has a few millimeters of tolerance.   
+[go2_body_scaled_1.001:1.stl](references/unitree/Go2/go2_body_scaled_1.001:1.stl): main body with the head of the Go2, scaled up by 1.001 to have a few millimeters of tolerance when doing a bolean difference with an attachement.    
 [[PREVIEW]](references/unitree/Go2/go2_body_scaled_1.001:1.stl)
 
 [go2_headscrew_placement.FCStd](references/unitree/Go2/go2_headscrew_placement.FCStd): CAD files with the placement of the head screws to be used as a base  
