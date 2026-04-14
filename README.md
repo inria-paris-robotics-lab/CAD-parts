@@ -11,46 +11,46 @@ All files are given in [freecad](https://www.freecad.org/) format (FCStd) or in 
 
 ## 3D Parts
 ### Franka
-[ball.FCStd](franka/ball.FCStd): ball end effector, mainly used for contact and force control experiments  
- [[PREVIEW]](franka/ball.stl)
+[ball.FCStd](3D-parts/franka/ball.FCStd): ball end effector, mainly used for contact and force control experiments  
+ [[PREVIEW]](3D-parts/franka/ball.stl)
 <div align="center">
     <img src=".pictures/franka/ball.png" alt="Franka ball end effector" width="300">
 </div>
 
 ### Mantis 
-[support_orbec_hub.FCStd](mantis/support_orbbec_sync_hub.FCStd) : support to screw the Orbec hub to a vention profile
+[support_orbec_hub.FCStd](3D-parts/mantis/support_orbbec_sync_hub.FCStd) : support to screw the Orbec hub to a vention profile
 <div align="center">
     <img src=".pictures/mantis/support_orbec_hub.png" alt="Switch holder for orbec cameras" width="300">
 </div>
 
 ### Unitree
 #### G1
-[g1_velcrostraps_backpack.FCStd](unitree/g1/g1_velcrostraps_backpack.FCStd) : back attachement with multiple velcro attachement points to attach extensions (Wifi router, emergency stop)
-[[PREVIEW]] TODO
+[g1_velcrostraps_backpack.FCStd](3D-parts/unitree/g1/g1_velcrostraps_backpack.FCStd) : back attachement with multiple velcro attachement points to attach extensions (Wifi router, emergency stop)
+[[PREVIEW]](3D-parts/unitree/G1/g1_backpack.stl)
 TODO picture
 
 #### Go2
-[go2_replacement_rail_velcro.FCStd](unitree/go2/go2_replacement_rail_velcro.FCStd) : replacement of the aluminium rail bars used on the Unitree Nvidia Jetson backback with velcro slits  
-[[PREVIEW]](unitree/go2/go2_replacement_rail_velcro.stl)
+[go2_replacement_rail_velcro.FCStd](3D-parts/unitree/go2/go2_replacement_rail_velcro.FCStd) : replacement of the aluminium rail bars used on the Unitree Nvidia Jetson backback with velcro slits  
+[[PREVIEW]](3D-parts/unitree/go2/go2_replacement_rail_velcro.stl)
 <div align="center">
     <img src=".pictures/unitree/go2/go2_replacement_rail_velcro.png" alt="Replacement rail with velcro slits for go2 jetson backpack" width="300">
 </div>
 
-[go2_tether.FCStd](unitree/go2/go2_tether.FCStd) : Link between the builtin leash and a carabiner  
-[[PREVIEW]](unitree/go2/go2_tether.stl)
+[go2_tether.FCStd](3D-parts/unitree/go2/go2_tether.FCStd) : Link between the builtin leash and a carabiner  
+[[PREVIEW]](3D-parts/unitree/go2/go2_tether.stl)
 <div align="center">
     <img src=".pictures/unitree/go2/go2_tether.png" alt="Tether for go2 strap" width="300">
 </div>
 
-[go2_realsense_mount.FCStd](unitree/go2/go2_realsense_mount.FCStd) : Head mount for a realsense D431 camera  
-[[PREVIEW]](unitree/go2/go2_realsense_mount.stl)
+[go2_realsense_mount.FCStd](3D-parts/unitree/go2/go2_realsense_mount.FCStd) : Head mount for a realsense D431 camera  
+[[PREVIEW]](3D-parts/unitree/go2/go2_realsense_mount.stl)
 <div align="center">
     <img src=".pictures/unitree/go2/go2_realsense_mount.png" alt="Tether for go2 strap" width="300">
 </div>
 
 ### Vention
-[vention_cable_holder.FCStd](vention/vention_cable_holder.FCStd) : clip for holding a roll of cable to a vention profile  
-[[PREVIEW]](vention/vention_cable_holder.stl)
+[vention_cable_holder.FCStd](3D-parts/vention/vention_cable_holder.FCStd) : clip for holding a roll of cable to a vention profile  
+[[PREVIEW]](3D-parts/vention/vention_cable_holder.stl)
 <div align="center">
     <img src=".pictures/vention/vention_cable_holder.png" alt="Vention cable holder" width="300">
 </div>
